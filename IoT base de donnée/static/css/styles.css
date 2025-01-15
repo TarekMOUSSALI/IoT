@@ -1,0 +1,14 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.list-group {
+    max-width: 600px;
+    margin: 20px auto;
+}

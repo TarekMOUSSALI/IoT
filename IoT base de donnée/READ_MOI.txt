@@ -1,0 +1,37 @@
+COMMANDES A TAPER POUR INSTALLER LES DEPENDANCES : 
+
+pip install flask
+pip install requests
+pip install flask requests
+
+
+Il faut également respecter l'architecture suivant pour le dossier Projet IoT
+
+
+Projet IoT/
+├── templates/
+│   ├── index.html
+│   ├── consommation.html
+│   ├── capteurs.html
+│   ├── economies.html
+│   ├── factures.html
+├── static/
+│   ├── css/
+│   │   ├── style.css
+│   ├── js/
+│   │   ├── scripts.js
+│   ├── icons/
+│   │   ├── electricity.png
+│   ├── image/
+│   ├── image1/
+├── site.db
+├── site_web.py
+├── effacer.py
+├── remplissage.py
+├── READ_MOI.txt
+├── logement.sql
+├── cle API.txt
+
+
+
+Lancer en premier site_web.py, puis exécuter le code effacer.py puis remplissage.py
