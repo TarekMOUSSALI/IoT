@@ -333,3 +333,16 @@ if __name__ == '__main__':
     print(app.url_map)
 
     app.run(host='0.0.0.0', port=5000, debug=True)
+
+
+
+
+
+
+#### SOURCE 
+
+##      https://www.youtube.com/watch?v=J9w-cir5a6U&list=PLMS9Cy4Enq5JAzNgWPK96HnkE_U7Ol3im     Graven-Developpement
+
+##      https://www.youtube.com/watch?v=Q6jHYBnPsIg&list=PLuMW20nBgcbr6NyyY_d-76ujdG2-22WHU&index=4  Faiz Dev
+
+##      https://www.youtube.com/watch?v=6hCGTJCo_Uo     Graven-Developpement CSS/HTML
