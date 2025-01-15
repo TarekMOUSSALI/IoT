@@ -34,4 +34,4 @@ Projet IoT/
 
 
 
-Lancer en premier site_web.py, puis exécuter le code effacer.py puis remplissage.py
+Lancer en premier site_web.py, puis exécuter le code effacer.py puis remplissage.py   
