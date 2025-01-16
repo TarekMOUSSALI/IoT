@@ -346,3 +346,5 @@ if __name__ == '__main__':
 ##      https://www.youtube.com/watch?v=Q6jHYBnPsIg&list=PLuMW20nBgcbr6NyyY_d-76ujdG2-22WHU&index=4  Faiz Dev
 
 ##      https://www.youtube.com/watch?v=6hCGTJCo_Uo     Graven-Developpement CSS/HTML
+
+###      https://www.youtube.com/watch?v=FdA1P7dY_18    METHODE GET/POST
